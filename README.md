@@ -1,2 +1,1 @@
-# Progra-1-A2-2023
-Tarea-Conversores
+# Progra-1-A2-2023-PARCIAL-DE-PROGRA
